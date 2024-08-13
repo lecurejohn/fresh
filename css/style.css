@@ -91,7 +91,7 @@ p{
     }
     header{
         height: 10vh;
-        padding-bottom: 10px;
+     background-color:green;
     }
     .header_logo{
         font-size: 1.1em;
@@ -100,7 +100,6 @@ p{
     .header_auth{
         position: absolute;
         right: 1%;
-        bottom: 90%;
     }
 
 }
