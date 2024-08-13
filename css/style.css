@@ -63,7 +63,7 @@ p{
 
 /* media query   */
 
-@media all and (max-width: 860px ){
+@media all and (max-width: 1024px ){
     .case1{
         display: flex;
         width: 100%;
@@ -88,6 +88,19 @@ p{
         padding: 0px;
         margin-left: 2%;
 
+    }
+    header{
+        height: 10vh;
+        padding-bottom: 10px;
+    }
+    .header_logo{
+        font-size: 30px;
+        text-align: center;
+    }
+    .header_auth{
+        position: absolute;
+        right: 1%;
+        bottom: 70%;
     }
 
 }
