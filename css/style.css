@@ -92,14 +92,18 @@ p{
     header{
         height: 10vh;
      background-color:green;
+     color:white;
     }
     .header_logo{
         font-size: 1.1em;
         text-align: center;
+        align-item: center;
+        margin-top: 20%;
     }
     .header_auth{
         position: absolute;
         right: 1%;
+        top: 10%
     }
 
 }
