@@ -73,7 +73,7 @@ p{
         padding: Opx;
     }
     .case2{
-        font-size: 0.4em;
+        font-size: 0.6em;
         height: 10vh;
         padding: 0;
         width: auto;
@@ -86,7 +86,7 @@ p{
         width: auto;
         height: 40vh;
         padding: 0px;
-        margin-left: 2%;
+        margin: 4%;
 
     }
     header{
@@ -94,13 +94,13 @@ p{
         padding-bottom: 10px;
     }
     .header_logo{
-        font-size: 30px;
+        font-size: 1.1em;
         text-align: center;
     }
     .header_auth{
         position: absolute;
         right: 1%;
-        bottom: 70%;
+        bottom: 90%;
     }
 
 }
